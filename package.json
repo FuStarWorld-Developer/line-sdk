@@ -1,0 +1,15 @@
+{
+  "name": "com.line.sdk",
+  "version": "1.0.0",
+  "displayName": "LINE SDK",
+  "keywords": [
+    "LINE"
+  ],
+  "author": {
+    "name": "LINE LLC",
+    "url": "https://github.com/line/line-sdk-unity/releases"
+  },
+  "description": "LINE SDK is the core library every LINE package depends on.",
+  "unity": "2021.3",
+  "dependencies": {}
+}
